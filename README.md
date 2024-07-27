@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @AadiSharma49
+<h1 align="center">HELLO THERE👋 I'm Aaditya Sharma</h1>
+
+
+
+
+-  Hi, I’m @AadiSharma49
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
