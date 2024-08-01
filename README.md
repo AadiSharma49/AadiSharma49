@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aadi198555@gmail.com**
 
-- 😄 Pronouns:HE/HIM
+- 😄 Pronouns:"HE/HIM"
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
