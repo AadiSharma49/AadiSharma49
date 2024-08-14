@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [LEVEL UP TECHNOLOGIES PROJECT](https://github.com/leveluptechno/lmsfrontend)
 
-- 🌱 I’m currently learning **'UNREAL ENGINE','TYPESCRIPT','MERN'**
+- 🌱 I’m currently learning **'Godot Engine','TYPESCRIPT','MERN'**
 
 - 💬 Ask me about **"Game development","Web development","Gaming industry"**
 
