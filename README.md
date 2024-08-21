@@ -13,7 +13,7 @@
 <h1 align="center">Hello There 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">I'm frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/aaditya61793474" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya61793474?logo=twitter&style=for-the-badge" alt="aaditya61793474" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aaditya61793474" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya61793474?logo=twitter&style=for-the-badge" alt="aaditya61793474" /></a></p>
 
 - 🔭 I’m currently working on [LEVEL UP TECHNOLOGIES PROJECT](https://github.com/leveluptechno/lmsfrontend)
 
