@@ -5,9 +5,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
--->
+- 📫 How to reach me ...-->
 <h1 align="center">Hello There 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">A frontend developer from India</h3>
 
@@ -22,7 +20,9 @@
 - 📫 How to reach me **aadi198555@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/14Eac61ccdY96LI3LRXwz_4g2tW-yKz_5/view?usp=sharing
+  
 - ⚡ Fun fact **I THINK I AM FUNNY**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
