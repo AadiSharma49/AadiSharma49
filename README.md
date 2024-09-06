@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aadi198555@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17nH0kgTlkK8oK8YUXKrEbX0JgsRdO0yw/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/17nH0kgTlkK8oK8YUXKrEbX0JgsRdO0yw/view?usp=drive_link
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
