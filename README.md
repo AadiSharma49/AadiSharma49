@@ -4,7 +4,7 @@
 <!---  Hi, I’m @AadiSharma49
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate  -->
+- 💞️ I’m looking to  -->
 <h1 align="center">Hello There 👋, I'm Aaditya Sharma</h1>
 <h3 align="center">A Software developer from India 🚀</h3>
 
