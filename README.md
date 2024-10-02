@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [LEVEL UP TECHNOLOGIES PROJECT](https://github.com/leveluptechno/lmsfrontend)
 
-- 🌱 I’m currently learning **'REACT','Godot Engine','MERN'**
+- 🌱 I’m currently learning **'TypeScript','Godot Engine','MERN'**
 
 - 💬 Ask me about **"Game development","Web development","Gaming industry"**
 
