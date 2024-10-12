@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aaditya61793474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaditya61793474" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aaditya-sharma-978163250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaditya-sharma-978163250/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaditya-sharma-978163250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/aaditya_sharma_2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aaditya_sharma_2024/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Aadityasharma1947/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://discord.gg/aadityasharma_gta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aadityasharma_gta" height="30" width="40" /></a>
