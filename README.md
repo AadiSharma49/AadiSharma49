@@ -1,6 +1,4 @@
 
-
-
 <!---  Hi, I’m @AadiSharma49
 - 👀 I’m interested in ...
 - 🌱 I’m currently 
