@@ -3,13 +3,17 @@
   <h3>Software Developer from India 🚀</h3>
 </div>
 
-<p align="center"><a href="https://twitter.com/aaditya61793474" target="blank"><img src="https://img.shields.io/twitter/follow/aaditya61793474?logo=twitter&style=for-the-badge" alt="aaditya61793474" /></a></p>
+<p align="center">
+  <a href="https://twitter.com/aaditya61793474" target="blank">
+    <img src="https://img.shields.io/twitter/follow/aaditya61793474?logo=twitter&style=for-the-badge" alt="aaditya61793474" />
+  </a>
+</p>
 
 <div style="background: rgba(255, 255, 255, 0.95); padding: 20px; border-radius: 10px; margin-top: 20px;">
   <ul style="font-size: 1.2em; line-height: 1.8;">
     <li>🌱 I’m currently learning <strong>'TypeScript', 'Unreal Engine', 'MERN'</strong></li>
     <li>💬 Ask me about <strong>"Game development", "Web development", "Gaming industry"</strong></li>
-    <li>📫 How to reach me: <strong>aadi198555@gmail.com</strong></li>
+    <li>📨 How to reach me: <strong>aadi198555@gmail.com</strong></li>
     <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/19UbuEL7S3JSO7xFNfwNWaaWVfVYMzC3x/view?usp=sharing" target="_blank">My Resume</a></li>
     <li>⚡ Fun fact: <strong>I THINK I AM FUNNY</strong></li>
   </ul>
@@ -42,8 +46,12 @@
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" /></a>
     <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" /></a>
+    <a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="50" /></a>
   </p>
+</div>
+
+<div align="center" style="margin-top: 20px; background: #121212; padding: 20px; border-radius: 10px; color: white;">
+  <img src="https://media.giphy.com/media/3o7aD1EZcGBfAd6hDi/giphy.gif" alt="Mark Zuckerberg" style="width: 300px; border-radius: 10px;">
 </div>
 
 <div align="center" style="margin-top: 20px;">
