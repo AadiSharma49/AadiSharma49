@@ -72,6 +72,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" />
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="50" />
+  </a>
 </div>
 
 <!-- Game Engines -->
@@ -85,6 +88,7 @@
   </a>
 </div>
 
+<!-- Tools/Platforms -->
 <!-- Tools/Platforms -->
 <h3 align="center">Tools & Platforms</h3>
 <div align="center">
@@ -102,6 +106,9 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" />
   </a>
 </div>
 
