@@ -81,7 +81,7 @@
 
 ---
 
-<div align="center" style="margin-top: 20px;">
+<div style="text-align: center;">
   <h3>Connect with me:</h3>
   <p>
     <a href="https://twitter.com/aaditya61793474" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" /></a>
