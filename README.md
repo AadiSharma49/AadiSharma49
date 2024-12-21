@@ -14,7 +14,7 @@
     <li>🌱 I’m currently learning <strong>'TypeScript', 'Unreal Engine', 'MERN'</strong></li>
     <li>💬 Ask me about <strong>"Game development", "Web development", "Gaming industry"</strong></li>
     <li>📨 How to reach me: <strong>aadi198555@gmail.com</strong></li>
-    <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/19UbuEL7S3JSO7xFNfwNWaaWVfVYMzC3x/view?usp=sharing" target="_blank">My Resume</a></li>
+    <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ONplY_ORk7OxfC3rZ5jx3EVdlVxXLs9Q/view?usp=sharing" target="_blank">My Resume</a></li>
     <li>⚡ Fun fact: <strong>I THINK I AM FUNNY</strong></li>
   </ul>
 </div>
