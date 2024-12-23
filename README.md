@@ -25,12 +25,6 @@
        alt="Coding Life" style="width: 300px; border-radius: 10px;">
 </div>
 
-<p align="center">
-  <a href="https://twitter.com/aaditya61793474" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/aaditya61793474?logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
-
 ---
 
 ### 🌟 About Me
