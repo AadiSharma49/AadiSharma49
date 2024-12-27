@@ -31,7 +31,7 @@
 - 🌱 **Currently Learning**: TypeScript, Unreal Engine, MERN
 - 💬 **Ask Me About**: Game development, Web development, Gaming industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
-- 📄 **Resume**: [View Here](https://drive.google.com/drive/folders/1a5BnFczY8iZk7d_kB44gbZaY89l-EjOE?usp=sharing)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/13wT4JBFxgS7TvOMNCSxJzq-Io_x7kjNK/view?usp=sharing)
 - ⚡ **Fun Fact**: *I think I am funny*
 
 ---
