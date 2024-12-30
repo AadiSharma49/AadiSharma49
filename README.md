@@ -26,6 +26,7 @@
 </div>
 
 ---
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AadiSharma49 )
 
 ### 🌟 About Me
 - 🌱 **Currently Learning**: TypeScript, Unreal Engine, MERN
