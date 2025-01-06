@@ -29,7 +29,7 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AadiSharma49 )
 
 ### 🌟 About Me
-- 🌱 **Currently Learning**: TypeScript, Unreal Engine, MERN
+- 🌱 **Currently Learning**: Unreal Engine, MERN ,Docker
 - 💬 **Ask Me About**: Game development, Web development, Gaming industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/13wT4JBFxgS7TvOMNCSxJzq-Io_x7kjNK/view?usp=sharing)
