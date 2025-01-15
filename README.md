@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <div style="background: linear-gradient(to right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5)), 
-            url('https://unsplash.com/photos/brown-wooden-board-h0Vxgz5tyXA') no-repeat center center; 
+            url('https://unsplash.com/photos/brown-wooden-surface-5fIoyoKlz7A?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash') no-repeat center center; 
             background-size: cover; 
             width: 100vw; 
             height: 100vh; 
