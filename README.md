@@ -13,6 +13,9 @@
             flex-direction: column; 
             justify-content: center; 
             align-items: center;" >
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=fff&center=true&vCenter=true&width=500&lines=Hello+Bro!;Welcome+to+my+profile!;Software+Developer+from+India" alt="Typing Animation">
+</p>
   <h1>Hello There 👋, I'm Aaditya Sharma</h1>
   <h3>Software Developer from India 🚀</h3>
 </div>
