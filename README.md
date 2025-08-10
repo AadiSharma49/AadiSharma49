@@ -5,7 +5,7 @@
             width: 100vw; 
             height: 100vh; 
             padding: 50px 20px; 
-            border-radius: 10px; 
+            border-radius: 10px;
             color: #333; 
             text-align: center; 
             font-family: Arial, sans-serif; 
