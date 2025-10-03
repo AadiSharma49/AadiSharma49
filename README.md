@@ -35,7 +35,7 @@
 - 🌱 **Currently Learning**: System Design , MERN , Docker
 - 💬 **Ask Me About**: Game development, Web development, Gaming industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
-- 📄 **Resume**: [View Here](https://drive.google.com/file/d/14OaU6YsESQkLuMGsE9u1At6ODvVGjMd3/view?usp=sharing)
+- 📄 **Resume**: [View Here](https://drive.google.com/file/d/1g-CvXmzsmxivwi2dFNlGSLmOfblRjLlG/view?usp=sharing)
 - ⚡ **Fun Fact**: *I think I am funny*
 
 ---
