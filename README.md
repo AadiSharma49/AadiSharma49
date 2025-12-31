@@ -32,7 +32,7 @@
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AadiSharma49 )
 
 ### 🌟 About Me
-- 🌱 **Currently Learning**: System Design , MERN , Docker
+- 🌱 **Currently Learning**: System Design , Cloud & Devops , AI/ML
 - 💬 **Ask Me About**: Game development, Web development, Gaming industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1g-CvXmzsmxivwi2dFNlGSLmOfblRjLlG/view?usp=sharing)
