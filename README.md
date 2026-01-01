@@ -16,9 +16,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Hello+Bro!;Welcome+to+my+profile!;" alt="Typing Animation">
 </p>
+            
   <h1>Hello There 👋, I'm Aaditya Sharma</h1>
+            
   <h3>Software Developer from India 🚀</h3>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
 
 <!-- GIF Section -->
 <div align="center" style="margin-top: 20px; background: #121212; padding: 20px; border-radius: 10px; color: white; width: 100%; max-width: 1200px; margin: 20px auto;">
@@ -28,8 +33,10 @@
        alt="Coding Life" style="width: 300px; border-radius: 10px;">
 </div>
 
----
+
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=AadiSharma49 )
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ### 🌟 About Me
 - 🌱 **Currently Learning**: System Design , Cloud & Devops , AI/ML
@@ -38,7 +45,8 @@
 - 📄 **Resume**: [View Here](https://drive.google.com/file/d/1g-CvXmzsmxivwi2dFNlGSLmOfblRjLlG/view?usp=sharing)
 - ⚡ **Fun Fact**: *I think I am funny*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ### 🛠️ Languages and Tools
 <div style="text-align: center;">
@@ -79,7 +87,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <div style="text-align: center;">
   <h3>Connect with me:</h3>
@@ -103,7 +112,7 @@
 </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 Stats
 <p align="center">
