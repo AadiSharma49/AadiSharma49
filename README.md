@@ -102,9 +102,9 @@
   <a href="https://www.instagram.com/aaditya_sharma_2024/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href="https://leetcode.com/u/Aadityasharma1947/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/Aadityasharma1947/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="50" height="50"/>
-  </a>
+  </a> -->
   <a href="https://discord.com/invite/aadityasharma_gta" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="50" height="50"/>
   </a>
