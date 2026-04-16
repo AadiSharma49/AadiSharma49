@@ -42,7 +42,7 @@
 - 🌱 **Currently Learning**: System Design , Cloud & Devops , AI/ML
 - 💬 **Ask Me About**: Game development, Web development, Gaming industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
-- 📄 **Resume**: [View Here](Aaditya Sharma Social Resume.pdf)
+- 📄 **Resume**: [View Here](https://github.com/AadiSharma49/Certificate/blob/main/Aaditya%20Sharma%20Social%20Resume.pdf)
 - ⚡ **Fun Fact**: *I think I am funny*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
