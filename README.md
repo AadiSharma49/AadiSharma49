@@ -42,7 +42,7 @@
 - 🌱 **Currently Learning**: System Design , Cloud & Devops , AI/ML
 - 💬 **Ask Me About**: Game development, Web development, Tech/IT industry
 - 📨 **Reach Me At**: [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
-- ⚡ **Fun Fact**: *I think I am funny*
+- ⚡ **Fun Fact**: I think I am funny 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
