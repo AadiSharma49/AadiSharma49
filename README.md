@@ -16,26 +16,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🧠 About Me
+## About Me
 
 **Software engineer building AI-native products** — from browser extensions that capture LLM conversations, to RAG pipelines that make them searchable forever.
 
-- 🚀 **Building:** [RelayOS](https://github.com/AadiSharma49) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
-- 🔐 **Also shipping:** [Senti](https://github.com/AadiSharma49) — multimodal desktop authentication (voice unlock, clap patterns, Telegram remote access) built on Electron + FastAPI.
-- 🎓 **Background:** BCA (University of Rajasthan) · Software Engineering certification, IIT Mandi · AWS Certified
-- 💼 **Experience:** SWE Intern @ Tectome.ai (London) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
-- 📍 **Open to:** Remote SWE roles at funded startups (US/UK) — full-stack or AI infrastructure
-- 📨 **Reach me:** [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
+-  **Building:** [RelayOS](https://github.com/AadiSharma49) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
+-  **Also shipping:** [Senti](https://github.com/AadiSharma49) — multimodal desktop authentication (voice unlock, clap patterns, Telegram remote access) built on Electron + FastAPI.
+-  **Background:** BCA (University of Rajasthan) · Software Engineering certification, IIT Mandi · AWS Certified
+-  **Experience:** SWE Intern @ Tectome.ai (London) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
+-  **Open to:** Remote SWE roles at funded startups (US/UK) — full-stack or AI infrastructure
+-  **Reach me:** [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🚀 Flagship Projects
+## Flagship Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 RelayOS
+### RelayOS
 **Decision memory for engineers**
 
 Every architectural decision you make inside AI tools — captured, structured, and searchable forever.
@@ -50,7 +50,7 @@ Every architectural decision you make inside AI tools — captured, structured, 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Senti
+###  Senti
 **Multimodal desktop authentication**
 
 Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
@@ -68,9 +68,9 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🤖 AI & LLM Engineering
+### AI & LLM Engineering
 <p>
   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
@@ -80,7 +80,7 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
   <img src="https://img.shields.io/badge/Claude%20Code-161b22?style=for-the-badge&logo=anthropic&logoColor=D97757">
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -90,7 +90,7 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### 🖥️ Frontend & Desktop
+### Frontend & Desktop
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -100,7 +100,7 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -112,7 +112,7 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AadiSharma49&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="165" alt="GitHub stats"/>
@@ -125,9 +125,19 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcC8zFs7jm9Djoc/giphy.gif" width="380" alt="Mark Zuckerberg on stage"/>
+  <br/><br/>
+  <br/>
+  <strong>— Mark Zuckerberg</strong>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
 <div align="center">
 
-**⚡ Fun fact:** I think I'm funny. My commit messages disagree.
+** Fun fact:** I think I'm funny. My commit messages disagree.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 
