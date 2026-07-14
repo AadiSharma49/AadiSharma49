@@ -20,8 +20,8 @@
 
 **Software engineer building AI-native products** — from browser extensions that capture LLM conversations, to RAG pipelines that make them searchable forever.
 
--  **Building:** [RelayOS](https://github.com/AadiSharma49) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
--  **Also shipping:** [Senti](https://github.com/AadiSharma49) — multimodal desktop authentication (voice unlock, clap patterns, Telegram remote access) built on Electron + FastAPI.
+-  **Building:** [RelayOS](https://github.com/AadiSharma49/RelayOs) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
+-  **Also shipping:** [Senti](https://github.com/AadiSharma49/Senti) — multimodal desktop authentication (voice unlock, clap patterns, Telegram remote access) built on Electron + FastAPI.
 -  **Background:** BCA (University of Rajasthan) · Software Engineering certification, IIT Mandi · AWS Certified
 -  **Experience:** SWE Intern @ Tectome.ai (London) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
 -  **Open to:** Remote SWE roles at funded startups (US/UK) — full-stack or AI infrastructure
