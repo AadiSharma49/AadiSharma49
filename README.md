@@ -50,17 +50,19 @@ Every architectural decision you make inside AI tools — captured, structured, 
 </td>
 <td width="50%" valign="top">
 
-###  Senti
-**Multimodal desktop authentication**
+# Senti
 
-Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
+**AI co-pilot that lives on your PC and only listens to you.**
 
-- **Voice verification** with real-time VAD (voice activity detection)
-- **Clap pattern matching** using DTW (dynamic time warping)
-- PIN fallback + full auth state machine
-- Remote lock/unlock via **Telegram bot**
+Talk to it. It knows it's you. It works alongside you.
 
-`Electron` `React` `Zustand` `Vite` `FastAPI` `PostgreSQL` `Redis` `Web Audio API`
+- **Voice identity** — on-device speaker verification, voiceprint never leaves your machine
+- **Voice assistant** — talk naturally, it answers out loud, works in any language  
+- **System awareness** — monitors CPU, RAM, processes in real time
+- **Proactive** — tells you when something needs attention without being asked
+- **Permission dial** — it only has the access you give it
+
+`Electron` `React` `TypeScript` `Vite` `Zustand` `Whisper ONNX` `WeSpeaker ONNX` `Llama 4` `Groq` `Next.js` `PostgreSQL` `Clerk`
 
 </td>
 </tr>
