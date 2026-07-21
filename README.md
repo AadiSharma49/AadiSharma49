@@ -137,7 +137,7 @@ Unlock your machine with your voice, a clap pattern, or remotely from Telegram.
 
 <div align="center">
 
-** Fun fact:** I think I'm funny. My commit messages disagree.
+Fun fact: I think I'm funny. My commit messages disagree.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
 
