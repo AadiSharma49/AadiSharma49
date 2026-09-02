@@ -21,10 +21,9 @@
 **Software engineer building AI-native products** — from browser extensions that capture LLM conversations, to RAG pipelines that make them searchable forever.
 
 -  **Building:** [RelayOS](https://github.com/AadiSharma49/RelayOs) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
--  **Also shipping:** [Senti](https://github.com/AadiSharma49/Senti) — multimodal desktop authentication (voice unlock, clap patterns, Telegram remote access) built on Electron + FastAPI.
+-  **Also shipping:** [preflight](https://github.com/AadiSharma49/preflight) — CLI + GitHub Action that scans your codebase and tells you what actually breaks before you upgrade an npm dependency. Published on npm.
 -  **Background:** BCA (University of Rajasthan) · Software Engineering certification, IIT Mandi · AWS Certified
 -  **Experience:** SWE Intern @ Tectome.ai (London) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
--  **Open to:** Remote SWE roles at funded startups (US/UK) — full-stack or AI infrastructure
 -  **Reach me:** [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
@@ -50,19 +49,17 @@ Every architectural decision you make inside AI tools — captured, structured, 
 </td>
 <td width="50%" valign="top">
 
-# Senti
+### preflight
+**See what breaks before you upgrade**
 
-**AI co-pilot that lives on your PC and only listens to you.**
+Reads a changelog and guesses which files are affected? No — scans your actual code with AST parsing, matches real usage against real changelog text, and tells you exactly what's a certain break vs a maybe.
 
-Talk to it. It knows it's you. It works alongside you.
+- **AST usage scanner** — finds every real usage of a package, including TypeScript type-only imports most tools miss
+- **Real changelog matching** — GitHub Releases + CHANGELOG.md fallback, cross-referenced against your actual code
+- **Transitive dependency scanning** — catches breaking changes from packages you never directly installed
+- **GitHub Action** — comments on your PR and fails the check automatically, tested live in production
 
-- **Voice identity** — on-device speaker verification, voiceprint never leaves your machine
-- **Voice assistant** — talk naturally, it answers out loud, works in any language  
-- **System awareness** — monitors CPU, RAM, processes in real time
-- **Proactive** — tells you when something needs attention without being asked
-- **Permission dial** — it only has the access you give it
-
-`Electron` `React` `TypeScript` `Vite` `Zustand` `Whisper ONNX` `WeSpeaker ONNX` `Llama 4` `Groq` `Next.js` `PostgreSQL` `Clerk`
+`Node.js` `TypeScript` `Babel AST` `GitHub Actions API` `npm`
 
 </td>
 </tr>
