@@ -23,7 +23,7 @@
 -  **Building:** [RelayOS](https://github.com/AadiSharma49/RelayOs) — decision memory SaaS for engineers. Captures conversations from Claude, ChatGPT & Cursor, extracts structured decisions with Gemini, makes them permanently searchable.
 -  **Also shipping:** [preflight](https://github.com/AadiSharma49/preflight) — CLI + GitHub Action that scans your codebase and tells you what actually breaks before you upgrade an npm dependency. Published on npm.
 -  **Background:** BCA (University of Rajasthan) · Software Engineering certification, IIT Mandi · AWS Certified
--  **Experience:** SWE Intern @ Tectome.ai (London) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
+-  **Experience:** SWE Intern @ Nandigo Technologies Pvt. Ltd (Remote) SWE Intern @ Axonari (Remote) · Open source @ Aden Hive (SF) & GirlScript Summer of Code
 -  **Reach me:** [aadi198555@gmail.com](mailto:aadi198555@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
